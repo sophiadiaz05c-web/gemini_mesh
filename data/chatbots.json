@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "name": "Asistente Acad\u00e9mico",
+        "model": "gemini-1.5-flash",
+        "api_key_encrypted": "dGVzdF9hcGlfa2V5XzEyMzQ1Ng==",
+        "system_instruction": "Eres un tutor universitario que explica estructuras de datos.",
+        "temperature": 0.7,
+        "message_queue": [],
+        "state_stack": []
+    },
+    {
+        "id": "2",
+        "name": "Bot Creativo",
+        "model": "gemini-1.5-pro",
+        "api_key_encrypted": "dGVzdF9hcGlfa2V5Xzc4OTAxMg==",
+        "system_instruction": "Eres un escritor creativo que ayuda a generar historias.",
+        "temperature": 0.9,
+        "message_queue": [],
+        "state_stack": []
+    }
+]
